@@ -2,12 +2,14 @@
 Projeto feito pelo Flutter para calcular a taxa/juros
 
 ## Tecnologias
-| Linguagens e Ferramentas  | Funcionalidade |
-| ------------- |:-------------:|
-| [Flutter]() | Linguagem Mobile    |
-| [Dart](https://dart.dev/) | Linguagem Mobile    |
-| [VsCode](https://code.visualstudio.com/) | IDE    |
-| [Firebase](https://studio.firebase.google.com/) | IDX    |
+
+Flutter: Linguagem Mobile
+
+Dart: Linguagem Mobile
+
+VsCode: IDE
+
+Firebase: IDX
 
 - Como testar
 

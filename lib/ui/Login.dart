@@ -69,7 +69,7 @@ class _LoginState extends State<Login> {
             ),
             ElevatedButton(
               onPressed: calcularMontantes,
-              child: Text('Calcular'),
+              child: Text('Calcular Juros'),
             ),
             Text('Montante Sem Juros: R\$ ${montanteSemJuros.toStringAsFixed(2)}'),
             Text('Montante Com Juros Compostos: R\$ ${montanteComJuros.toStringAsFixed(2)}'),
